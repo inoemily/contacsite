@@ -1,0 +1,64 @@
+body {
+    font-family: 'Oswald', sans-serif;
+}
+html {
+	background-size: 100% 100%;
+	background-repeat: no-repeat, repeat;
+	background-image: url("../img/fondo.jpg");
+    height: 100%
+}
+
+.myclass {
+	position: absolute;
+	bottom: 40px;
+	right: 40px;
+}
+spam {
+    bottom: 20px;
+    color: white;
+    position: absolute;
+	right: 40px;
+}
+.logo {
+	width: 100px;
+}
+
+.logo2 {
+    width: 90px;
+}
+#principal {
+	display: flex
+}
+
+#div1 {
+	margin-left: 150px; 
+	margin-top: 60px; 
+	margin-right: 25px
+}
+
+#div2 {
+	margin-top: 320px;
+}
+#div3 {
+	margin-top: 320px;
+}
+p{
+	color: whitesmoke; 
+	font-size: 1.5em;
+	text-align: justify;
+	width: 600px;
+}
+
+#instagram {
+	right: 130px;
+}
+
+#whatsApp {
+	right: 230px;
+}
+
+
+
+
+
+
